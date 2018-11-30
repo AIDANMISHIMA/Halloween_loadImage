@@ -27,7 +27,7 @@ void setup()  {
   r=10;
 }
     void draw() {
-    background(random(255),random(255),random(255));
+    background(0,0,255);
   image(Cut,-50,50);
   image(Carrots,40,55,200,200);
   image(Gbeans,175,55,200,200);
