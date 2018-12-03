@@ -37,6 +37,7 @@ void setup()  {
   image(IceCream,280,305,185,185);
   image(Sashimi,120,305,190,190);
     image(knife,mouseX-50,mouseY-100,200,200);
+    textSize(57);
     text("Thank You",t,300);
     t=t+r;
     textSize(57);
